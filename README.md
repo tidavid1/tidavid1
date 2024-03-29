@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+🔗[bio](https://www.canva.com/design/DAF6IMYajew/t_1yAQhqx-U-L7jaCVKJHw/edit?utm_content=DAF6IMYajew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br>
+
 Study Hard for being Developer <br>
+
 
 💻 Current System<br>
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
