@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🔗[bio](https://www.canva.com/design/DAF6IMYajew/s-WFKbCGPOBCAxtPayZPhw/view?utm_content=DAF6IMYajew&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br>
-
 Study Hard for being Developer <br>
 
 
