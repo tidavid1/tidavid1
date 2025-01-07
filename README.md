@@ -2,7 +2,7 @@
 
 **Software Engineer (Backend)**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tidavid1&theme=tokyonight-duo)](https://git.io/streak-stats)
+
 
 
 ## 📚 Tech Stack
